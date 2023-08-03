@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_content_second.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\content_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_fragment_products.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_item_recycler.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable_carrito.jpeg.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable\\carrito.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_item_recycler_cart.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\item_recycler_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\anim_to_right.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\anim\\to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable\\baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.carrito.app-merged_res-67:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.carrito.app-main-69:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_dialog_image.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\dialog_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\anim_from_right.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\anim\\from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_dialog_buy.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\dialog_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\anim_to_left.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\anim\\to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\anim_from_left.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\anim\\from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\xml_fragment_detail_scene.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\xml\\fragment_detail_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_dialog_logout.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\dialog_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\menu_menu_second.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\menu\\menu_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable\\baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\drawable_baseline_navigate_before_24.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\drawable\\baseline_navigate_before_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\7.5\\com.example.carrito.app-main-69:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

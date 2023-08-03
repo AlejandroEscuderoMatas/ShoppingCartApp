@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph2"
+    app:startDestination="@id/fragment_products">
+
+    <fragment
+        android:id="@+id/fragment_products"
+        android:name="com.example.carrito.FragmentProducts"
+        android:label="@string/products_fragment_label"
+        tools:layout="@layout/fragment_products">
+
+        <action
+            android:id="@+id/action_ProductsFragment_to_DetailFragment"
+            app:destination="@id/fragment_detail" />
+        <argument
+            android:name="user_uid"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_ProductsFragment_to_CartFragment"
+            app:destination="@id/fragmentCart" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_detail"
+        android:name="com.example.carrito.FragmentDetail"
+        android:label="@string/detail_fragment_label"
+        tools:layout="@layout/fragment_detail">
+
+        <action
+            android:id="@+id/action_DetailFragment_to_ProductsFragment"
+            app:destination="@id/fragment_products" />
+        <argument
+            android:name="id"
+            app:argType="string" />
+        <argument
+            android:name="title"
+            app:argType="string" />
+        <argument
+            android:name="description"
+            app:argType="string" />
+        <argument android:name="price"
+            app:argType="integer" />
+        <argument
+            android:name="discountPercentage"
+            app:argType="integer" />
+        <argument
+            android:name="rating"
+            app:argType="integer" />
+        <argument
+            android:name="stock"
+            app:argType="integer" />
+        <argument
+            android:name="brand"
+            app:argType="string" />
+        <argument
+            android:name="category"
+            app:argType="string" />
+        <argument
+            android:name="thumbnail"
+            app:argType="string" />
+        <argument
+            android:name="images"
+            app:argType="string[]" />
+        <argument
+            android:name="user_uid"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentCart"
+        android:name="com.example.carrito.FragmentCart"
+        android:label="@string/cart_fragment_label"
+        tools:layout="@layout/fragment_cart">
+        <action
+            android:id="@+id/action_fragmentCart_to_fragment_products"
+            app:destination="@id/fragment_products" />
+        <argument
+            android:name="user_uid"
+            app:argType="string" />
+    </fragment>
+</navigation>

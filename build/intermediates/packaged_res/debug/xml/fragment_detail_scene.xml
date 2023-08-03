@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:motion="http://schemas.android.com/tools">
+
+    <ConstraintSet android:id="@+id/start">
+        <!-- Define la posición inicial del elemento en el carrusel -->
+        <Constraint
+            android:id="@+id/carouselItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toTopOf="parent" />
+
+        <!-- Agrega más restricciones según sea necesario para otros elementos en el carrusel -->
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+        <!-- Define la posición final del elemento en el carrusel -->
+        <Constraint
+            android:id="@+id/carouselItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="200dp"
+            motion:layout_constraintStart_toEndOf="@id/previousItem"
+            motion:layout_constraintTop_toTopOf="parent" />
+
+        <!-- Agrega más restricciones según sea necesario para otros elementos en el carrusel -->
+    </ConstraintSet>
+
+    <Transition
+        motion:constraintSetStart="@id/start"
+        motion:constraintSetEnd="@+id/next"
+        motion:duration="1000"
+        android:id="@+id/forward">
+        <OnSwipe
+            motion:dragDirection="dragLeft"
+            motion:touchAnchorSide="left" />
+    </Transition>
+
+    <Transition
+        motion:constraintSetStart="@+id/start"
+        motion:constraintSetEnd="@+id/previous"
+        android:id="@+id/backward">
+        <OnSwipe
+            motion:dragDirection="dragRight"
+            motion:touchAnchorSide="right" />
+    </Transition>
+
+</MotionScene>
